@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Frontend
+frontend/node_modules/
+
+# IDE
+.idea/
